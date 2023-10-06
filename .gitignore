@@ -1,0 +1,11 @@
+*.o
+obj/
+bin/
+compile.c
+compile.out
+*.out
+*.bin
+
+assembler
+compile
+program
